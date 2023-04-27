@@ -1,0 +1,21 @@
+body {
+   margin-top: 30%;
+   padding-left: 50%;
+}
+
+.star{
+    display: flex
+}
+button {
+    background-color: #fff;
+    border: none;
+    font-size: 20px;
+    color: gray
+
+}
+.on{
+    color: rgb(235, 235, 50);
+}
+.off{
+    background-attachment: #fff;
+}
